@@ -1,0 +1,32 @@
+body {
+    background-color: white;
+}
+
+h1 {
+    color: gray;
+    text-align: center;
+}
+
+p {
+    color: black;
+    text-align: center;
+    font-family: verdana;
+    font-size: 20px;
+}
+
+.footer {
+    color: black;
+    text-align: center;
+    font-family: fantasy;
+    font-size: 20px;
+}
+
+.button {
+    background-color: midnightblue;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 20px;
+}
