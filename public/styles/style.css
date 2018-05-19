@@ -3,8 +3,18 @@ body {
 }
 
 h1 {
-    color: gray;
+    color: black;
     text-align: center;
+    background-color:whitesmoke;
+    font-size: 50px;
+}
+
+h3 {
+    color: black;
+    text-align: center;
+    background-color:white;
+    font-family: fantasy;
+    font-size: 15px;
 }
 
 p {
@@ -14,11 +24,11 @@ p {
     font-size: 20px;
 }
 
-.footer {
-    color: black;
-    text-align: center;
+div {
+    color: blue;
+    text-align: left;
     font-family: fantasy;
-    font-size: 20px;
+    font-size: 50px;
 }
 
 .button {
